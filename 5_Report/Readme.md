@@ -84,7 +84,8 @@ T# TEST CASES:
 # Working
 https://user-images.githubusercontent.com/102293784/168423433-67fa4bba-f4a2-45c3-b6d5-365c9ac55d2d.mp4
 
-
+# Conclusion
+ A mechanism which is used to clean the windscreen from dust and rain is developed. Moreover it works at it 3 different frequencies. All this control is controlled by a single switch.
 
 
 
