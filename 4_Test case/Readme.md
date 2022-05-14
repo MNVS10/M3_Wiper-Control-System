@@ -1,4 +1,4 @@
-## Table no: Low Level test plan
+##  Low Level test plan
 
 |**Test ID**|**Description**|**Exp O/P**|**Actual O/P**|
 | :- | :-: | :-: | :-: |
@@ -7,7 +7,7 @@
 |L\_03|Turning on and changing the pattern as per the user input|UNSUCCESFUL|UNSUCCESFUL|
 
 
-## Table no: High Level test plan
+## High Level test plan
 
 
 |**Test ID**|**Description**|**Exp O/P**|**Actual O/P**|
