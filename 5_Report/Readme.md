@@ -58,6 +58,9 @@ Thus providing a clear vison to the driver for a safe driving.The project is dev
 # High Level FlowChart
 ![High Level](https://user-images.githubusercontent.com/102293784/168420438-eb18dd53-4d9c-473d-a785-c8411fddfa36.jpeg)
 
+# Block Diagram #
+![Block diagram](https://user-images.githubusercontent.com/102293784/168470290-0269815b-246b-464e-ad74-3743febe3c71.JPG)
+
 # Explanation 
 The project is done using STM32F4XX Discovery Board. In that we use 4 Onbaord LEDs and 1 Onboard User Button. In that the red is used to represent the state of vehicle engine. Other 3 LEDs Blue, Green and Orange is  used to represent the position of Wipers. In this project the wipers work at 3 different speeds represented by the change in frequency of LEDs. The Engine is turned by Long press of the user button. Thus if we Long press the user button RED LED will be turned ON. Then if we short press wiper should turn ON at a frequency of 1Hz. So the Blue Green and Orange LEDs will turn ON and OFF at a frequency of 1Hz. Then if we short press again the frequency is increased to 4Hz. Hence the Blue Green and Orange LEDs will turn ON and OFF at a frequency of 4Hz. If we short press once again the frequency is increased to 8Hz so that LEDs will blink at a frequency of 8Hz. And to turn off the engine the user button need to be long pressed.
 
