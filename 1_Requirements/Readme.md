@@ -29,16 +29,16 @@
 # WHAT
  A mechanism which is used to clean the windscreen while drving thus providing a clear vision for  the driver.Because it is not practically possible for a driver to clean the windscreen during rain while driving.
  
-#WHO
+# WHO
  The manufacturers of the vechicles should implement this mechanism in all vehicles and the drivers should use it as per the requirements.
  
-#WHERE
+# WHERE
  In all cars, trucks and other LMVs and HMVs.
  
-#WHEN
+# WHEN
  During rains and while travelling in dusty areas.
  
-#HOW
+# HOW
  It is developed using STM32F4XX discovery board using 4 LEDs.
  
  
